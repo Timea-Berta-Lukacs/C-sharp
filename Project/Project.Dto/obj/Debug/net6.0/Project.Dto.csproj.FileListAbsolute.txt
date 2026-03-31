@@ -1,0 +1,12 @@
+D:\Proiect_PSSC\Project.Dto\bin\Debug\net6.0\Project.Dto.deps.json
+D:\Proiect_PSSC\Project.Dto\bin\Debug\net6.0\Project.Dto.dll
+D:\Proiect_PSSC\Project.Dto\bin\Debug\net6.0\Project.Dto.pdb
+D:\Proiect_PSSC\Project.Dto\obj\Debug\net6.0\Project.Dto.csproj.AssemblyReference.cache
+D:\Proiect_PSSC\Project.Dto\obj\Debug\net6.0\Project.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiect_PSSC\Project.Dto\obj\Debug\net6.0\Project.Dto.AssemblyInfoInputs.cache
+D:\Proiect_PSSC\Project.Dto\obj\Debug\net6.0\Project.Dto.AssemblyInfo.cs
+D:\Proiect_PSSC\Project.Dto\obj\Debug\net6.0\Project.Dto.csproj.CoreCompileInputs.cache
+D:\Proiect_PSSC\Project.Dto\obj\Debug\net6.0\Project.Dto.dll
+D:\Proiect_PSSC\Project.Dto\obj\Debug\net6.0\refint\Project.Dto.dll
+D:\Proiect_PSSC\Project.Dto\obj\Debug\net6.0\Project.Dto.pdb
+D:\Proiect_PSSC\Project.Dto\obj\Debug\net6.0\ref\Project.Dto.dll
